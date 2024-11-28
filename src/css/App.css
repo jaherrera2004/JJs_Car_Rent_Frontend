@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+#titulo-principal {
+  font-family: "Libre Baskerville", serif;
+  font-weight: bold;
+}
+
+#texto {
+  font-family: "Lexend", sans-serif;
+}
+
+#registrarse {
+  font-family: "Lexend", sans-serif;
+  font-weight: bold;
+}
+
+#registrarse:hover {
+  background-color: #643ae3;
+  opacity: 10;
+}
+
+#texto2 {
+  font-family: "Lexend", sans-serif;
+  font-weight: 600;
+}
+
+#titulo2 {
+  font-family: "Lexend", sans-serif;
+  font-weight: bolder;
+}
+
+#texto3 {
+  font-family: "Lexend", sans-serif;
+  font-weight: bold;
+}
+
+#texto4 {
+  font-family: "Lexend", sans-serif;
+  font-weight: 400;
+}
+
+li {
+  list-style: none;
+}
+
+
+#boton1:hover {
+  background-color: rgb(187, 187, 187);
+}
+
+#div1 {
+  background-image: url(src/assets/carro22.jpeg);
+  background-blend-mode: darken;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#div2 {
+  background-image: url(src/assets/soporte.jpg);
+  background-blend-mode: darken;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+html {
+  scroll-behavior: smooth;
+}

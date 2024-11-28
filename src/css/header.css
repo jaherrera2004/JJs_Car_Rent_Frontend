@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+header {
+    font-family: "Lexend", sans-serif;
+}
+
+#menu li {
+    position: relative;
+}
+
+#menu li:hover ul {
+    display: block;
+    width: 9rem;
+}
+
+#menu ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+}

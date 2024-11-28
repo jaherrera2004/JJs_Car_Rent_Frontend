@@ -1,0 +1,77 @@
+#bboton:hover {
+    background-color: black;
+}
+
+#cerrar:hover {
+    background-color: black;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+
+tbody tr:nth-child(odd):hover {
+    background-color: #b7b7b7;
+}
+  
+tbody tr:nth-child(even) {
+    background-color: #e7e7e7;
+}
+
+tbody tr:nth-child(even):hover {
+    background-color: #878787;
+}
+
+tr {
+    height: 50px;
+}
+
+#eliminar:hover {
+    background-color: rgb(148, 0, 0);
+}
+
+#agregar:hover {
+    background-color: rgb(38, 36, 61);
+}
+
+#cancelar:hover {
+    background-color: rgb(90, 90, 90);
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; 
+}
+
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: min-content;
+    height: max-content;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.modal button {
+    margin: 10px;
+}
+
+#add {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+
+

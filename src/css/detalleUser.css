@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+#titulo {
+    font-family: 'Lexend', sans-serif;
+    font-weight: bolder;
+}
+
+#texto {
+    font-family: 'Lexend', sans-serif;
+}
+
+#editar {
+    font-family: 'Lexend', sans-serif;
+    font-weight: bold;
+}
+
+#editar:hover {
+    background-color: #643ae3;
+    opacity: 10;
+}
+
+table {
+    font-family: 'Lexend', sans-serif;
+}

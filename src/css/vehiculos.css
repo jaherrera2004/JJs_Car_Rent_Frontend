@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+#vehiculo {
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: "Lexend", sans-serif;
+}
+
+#filtro {
+    font-family: "Lexend", sans-serif;
+}

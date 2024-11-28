@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+#registro {
+    background-image: url(src/assets/459918618onixbaja.jpg);
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    font-family: monospace;
+}
+
+#bregistro {
+    font-family: "Lexend", sans-serif;
+}
+
+#bregistro:hover {
+    background-color: rgb(41, 41, 197);
+}
+
+#titulo-registro {
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+}
+
+form {
+    font-family: "Lexend", sans-serif;
+}
